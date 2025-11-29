@@ -1,5 +1,5 @@
                                                       
-                                               # OBJECT DETECTION USING TENSORFLOW
+                                               # OBJECT DETECTION 
    # Object Detection
           
  
@@ -7,7 +7,6 @@ Abstract
 Real-time object detection and tracking is a vast, vibrant yet inconclusive and complex area of computer vision. Due to its increased utilization in surveillance, tracking system used in security and many others applications have propelled researchers to continuously devise more efficient and competitive algorithms. The latest research on this area has been making great progress in many directions.  In the current manuscript, we give an overview of the necessity of object detection in today’s computing systems, outline the current main research directions, discuss on how our API algorithm works, and discuss open problems and possible future directions.
 Key words: - Object Detection, Computer Vision, Tracking Systems, API algorithm.
 
-![](Images/image001.png)
 
 Fig 1.Still Image Object Detection By Ankan:
 
