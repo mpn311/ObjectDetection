@@ -1,6 +1,6 @@
                                                       
                                                # OBJECT DETECTION USING TENSORFLOW
-   # Object Detection using Tensorflow(By Ankan)
+   # Object Detection
           
  
 Abstract
