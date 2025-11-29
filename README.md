@@ -8,16 +8,6 @@ Real-time object detection and tracking is a vast, vibrant yet inconclusive and 
 Key words: - Object Detection, Computer Vision, Tracking Systems, API algorithm.
 
 
-Fig 1.Still Image Object Detection By Ankan:
-
-
-
-![](Images/live%20webcam.png)
-
-Fig 2.Live Webcam Object Detection of Anik (Ankan's friend)
-
-
-
 I. INTRODUCTION
 
 A.What is object detection?
