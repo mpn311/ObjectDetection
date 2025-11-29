@@ -25,11 +25,11 @@ Depending on your application, you can decide a cut-off threshold below which yo
 The cut-off you use should be based on whether you are more comfortable with false positives (objects that are wrongly identified, or areas of the image that are erroneously identified as objects when they are not), or false negatives (genuine objects that are missed because their confidence was low).
 For example, in the following image, a pear (which is not an object that the model was trained to detect) was misidentified as a "person". This is an example of a false positive that could be ignored by selecting an appropriate cut-off. In this case, a cut-off of 0.6 (or 60%) would comfortably exclude the false positive.
 
-Fig 3.Still Image Object Detection
+Fig 1.Still Image Object Detection
 
 ![](Images/1_KkAZPEPkBNQYTXSFcXwEzA.png)
 
-Fig 4.Live Webcam Object Detection
+Fig 2.Live Webcam Object Detection
 
 
 ![](Images/Objects2.jpg)
